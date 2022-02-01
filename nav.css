@@ -1,0 +1,75 @@
+.ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.button1{
+    
+    width: 150px;
+    height: 40px;
+    border-radius:5px;
+    background-color: rgb(94, 94, 243);
+    color: white;
+    }
+
+    .buttonx{
+        text-align: center;
+    }
+
+    .href{
+        color: white;
+    }
+
+    .box1{
+        height: 20px;
+        text-align: center;
+        color: tomato;
+        font-size: 15px;
+    }
+
+    .box2{
+        text-align: center;
+        color: tomato;
+        font-size: 15px;
+    }
+
+    .kemans{
+        text-align: center;
+        border-radius:5px;
+        border-color: rgb(209, 67, 67);
+        color: rgb(56, 5, 114);
+        font-size: 14pxpx;
+        border:solid;
+    }
+
+
+    .davuls2{
+        text-align: center;
+        border-radius:5px;
+        border-color: rgb(209, 67, 67);
+        color: rgb(56, 5, 114);
+        font-size: 14pxpx;
+        border:solid;
+    }
+
+    .gitars{
+        text-align: center;
+        border-radius:5px;
+        border-color: rgb(209, 67, 67);
+        color: rgb(56, 5, 114);
+        font-size: 14pxpx;
+        border:solid;
+    }
+
+    .piyanos{
+        text-align: center;
+        border-radius:5px;
+        border-color: rgb(209, 67, 67);
+        color: rgb(56, 5, 114);
+        font-size: 14pxpx;
+        border:solid;
+    }
+
+    .anas:hover{
+        color: hotpink;
+    }
